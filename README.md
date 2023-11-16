@@ -1,17 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=SeokMin%20LEE&fontColor=ffffff&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=SeokMin%20Lee&fontColor=ffffff&fontSize=50)
 
 
 
+<h2 align="center">👋 Hi there,</h2>
+<div align="center">
+I'm SeokMin Lee, 
 
+<br/></br>
 <h2 align="center">🧑‍💻 My Github Stats 🧑‍💻</h2>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ing970&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
- <br/></br>
-
-<h2 align="center">🛠️ Tech Stacks 🛠️</h2>
+<br/></br>
+<h2 align="center">✨ Tech Stacks ✨</h2>
 <div align="center">
   
  <br/>
@@ -34,13 +37,14 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi%20IDE&logoColor=white"><br>
+<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium%20IDE&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
 
  <br/></br>
