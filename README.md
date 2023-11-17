@@ -4,7 +4,7 @@
 <div align="center">
 <div style="text-align: center;">
   I'm SeokMin Lee. Welcome to my GitHub profile! <br>
-  I am currently diving deep into the world of Data Analysis, Machine Learning (ML), Deep Learning (DL), and Computer Vision. <br>
+  I'm currently diving deep into the world of Data Analysis, Machine Learning (ML), Deep Learning (DL), and Computer Vision. <br>
   My repositories reflect my journey and passion for these cutting-edge technologies. <br>
   Feel free to look around and connect with me if you share similar interests or have any questions!
 </div>
