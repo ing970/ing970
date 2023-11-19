@@ -3,10 +3,9 @@
 <h2 align="center">👋 Hi there,</h2>
 <div align="center">
 <div style="text-align: center;">
-  I'm SeokMin Lee. Welcome to my GitHub profile! <br>
-  I'm currently diving deep into the world of Data Analysis, Machine Learning (ML), Deep Learning (DL), and Computer Vision. <br>
-  My repositories reflect my journey and passion for these cutting-edge technologies. <br>
-  Feel free to look around and connect with me if you share similar interests or have any questions!
+
+안녕하세요, 저는 열정적인 데이터 과학자이자 파이썬 개발자 이석민입니다. <br>
+새로운 기술을 활용해 복잡한 문제를 해결하는 데 큰 관심을 가지고 있습니다.
 </div>
 <br/></br>
   
