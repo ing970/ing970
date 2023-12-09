@@ -8,13 +8,6 @@
 새로운 기술을 활용해 복잡한 문제를 해결하는 데 큰 관심을 가지고 있습니다.
 </div>
 <br/></br>
-  
-<h2 align="center">🧑‍💻 My Github Stats 🧑‍💻</h2>
-<div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ing970&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<br/></br>
 
 <h2 align="center">✨ Tech Stacks ✨</h2>
 <div align="center">
