@@ -4,8 +4,6 @@
 <div align="center">
 <div style="text-align: center;">
 
-안녕하세요, 저는 지속적인 발전을 추구하는 데이터 사이언티스트 이석민입니다. <br>
-복잡한 데이터를 모델링하고, 컴퓨터 비전을 통한 창의적인 해결책을 제시하는 데 열정을 가지고 있습니다.
 <br/></br>
 
 <h2 align="center">✨ Tech Stacks ✨</h2>
