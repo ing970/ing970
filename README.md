@@ -36,10 +36,3 @@
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 <br/></br>
 
-<h2 align="center">🎳 About Me 🎳</h2>
-<div align="center">
-
-<a href="https://ing970.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"></a>
-<a href="https://www.instagram.com/seok.mani_/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-
-
